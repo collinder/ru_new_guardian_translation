@@ -1,0 +1,32 @@
+{
+  "Guardian:AcceleratePotion": {
+    "NAME": "Temporal Potion",
+    "DESCRIPTIONS": [
+      "#yAccelerate all cards in #yStasis #b",
+      " times."
+    ]
+  },
+  "Guardian:DefensiveModePotion": {
+    "NAME": "Polishing Oil",
+    "DESCRIPTIONS": [
+      "Enter #yDefensive #yMode for #b",
+      " round.",
+      " rounds."
+    ]
+  },
+  "Guardian:BlockOnCardUsePotion": {
+    "NAME": "Armorer's Tincture",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yBlock each time you play a card this turn."
+    ]
+  },
+  "Guardian:StasisDiscoveryPotion": {
+    "NAME": "Quantum Elixir",
+    "DESCRIPTIONS": [
+      "Gain #yStasis slots until you have #b",
+      ". NL Repeat #b",
+      " times: choose #b1 of #b3 cards to place into #yStasis."
+    ]
+  }
+}
